@@ -115,7 +115,7 @@ This project is licensed under the MIT License.
 ## 📧 Contact
 For queries or suggestions, feel free to reach out:
 - **Krushikesh Shelar**
-- Email: krushikesh@example.com
-- GitHub: [github.com/krushikesh-shelar](https://github.com/krushikesh-shelar)
+- Email: krushikeshshelar@gmail.com
+- GitHub: [github.com/krushikesh-shelar]([https://github.com/krushikesh-shelar](https://github.com/KrushikeshS))
 
 🚩 **Start Solving Smarter, Not Harder!**

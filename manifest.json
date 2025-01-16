@@ -1,0 +1,32 @@
+{
+  "manifest_version": 3,
+  "name": "AI Helper for DSA",
+  "version": "0.1",
+  "author": "Krushikesh Shelar",
+  "description": "AI Helper for DSA",
+  "permissions": ["storage", "tabs", "scripting"],
+  "content_scripts": [
+    {
+      "matches": ["*://*.maang.in/*"],
+      "js": ["marked.min.js", "content.js"]
+    }
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["assets/bookmark.png", "assets/ext-icon.png", "inject.js"],
+      "matches": ["*://*.maang.in/*"]
+    }
+  ],
+  "action": {
+    "default_icon": {
+      "16": "assets/ext-icon.png",
+      "24": "assets/ext-icon.png",
+      "32": "assets/ext-icon.png"
+    },
+    "default_popup": "popup.html",
+    "default_title": "A tooltip popup description when you hover over the Chrome Extension icon."
+  }
+}

@@ -4,6 +4,11 @@ Enhance your coding experience on [Maang.in](https://maang.in) with this Chrome 
 
 ---
 
+## 🎥 Demo
+
+[![Watch the Demo](https://img.youtube.com/vi/qRLpaO1Jfzs/maxresdefault.jpg)](https://youtu.be/qRLpaO1Jfzs)
+
+
 ## 🚀 Features
 
 1. **Seamless Integration**  
